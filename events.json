@@ -1,0 +1,1642 @@
+[
+    {
+        "id": 1,
+        "event_name": "AI & Machine Learning Summit",
+        "category": "Technology",
+        "tags": [
+            "Technology",
+            "AI",
+            "Summit"
+        ],
+        "date": "15-06-2025",
+        "time": "10:00 AM",
+        "entry_price": 99,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Auditorium Hall",
+        "staff_coordinator": "Dr. Meera Nair - HOD, AI & ML",
+        "student_coordinator": "Rahul Gupta - CSE 3rd Year",
+        "contact_info": "eventsupport@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Google",
+            "Microsoft"
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/collegeevents",
+            "facebook": "https://facebook.com/collegeevents"
+        },
+        "rules": [
+            "Each team can have up to 4 members.",
+            "Participants must bring their own laptops.",
+            "Late entries will not be entertained."
+        ],
+        "description": "The AI & Machine Learning Summit features keynote speeches from industry leaders, panel discussions, and hands-on workshops.",
+        "bg_image": "https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg"
+    },
+    {
+        "id": 2,
+        "event_name": "Blockchain Conference",
+        "category": "Technology",
+        "tags": [
+            "Technology",
+            "Blockchain",
+            "Conference"
+        ],
+        "date": "18-06-2025",
+        "time": "2:00 PM",
+        "entry_price": 199,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Tech Auditorium",
+        "staff_coordinator": "Dr. Ramesh Iyer - Blockchain Expert",
+        "student_coordinator": "Sneha Verma - CSE 4th Year",
+        "contact_info": "techclub@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "IBM",
+            "Ethereum Foundation"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b915,000 + Certificate",
+            "third_place": "\u20b97,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/blockchainconf",
+            "facebook": "https://facebook.com/blockchainconf"
+        },
+        "rules": [
+            "Presentations should be original.",
+            "Teams can have up to 3 members.",
+            "Speakers must submit topics in advance."
+        ],
+        "description": "A premier event discussing blockchain innovations, featuring industry experts and hands-on workshops.",
+        "bg_image": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
+    },
+    {
+        "id": 3,
+        "event_name": "Music Fest",
+        "category": "Music",
+        "tags": [
+            "Music",
+            "Festival",
+            "Event"
+        ],
+        "date": "13-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 299,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Music Hall",
+        "staff_coordinator": "Prof. Music - Event Head",
+        "student_coordinator": "Student Music - 3rd Year",
+        "contact_info": "music@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Music Corp",
+            "Music Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/musicfest",
+            "facebook": "https://facebook.com/musicfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Music featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 4,
+        "event_name": "Music Championship",
+        "category": "Music",
+        "tags": [
+            "Music",
+            "Competition",
+            "Championship"
+        ],
+        "date": "18-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 0,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Music Arena",
+        "staff_coordinator": "Dr. Music - Event Chair",
+        "student_coordinator": "Lead Music - 4th Year",
+        "contact_info": "music@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Music League",
+            "Music World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/musicchampionship",
+            "facebook": "https://facebook.com/musicchampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Music competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/144429/pexels-photo-144429.jpeg"
+    },
+    {
+        "id": 5,
+        "event_name": "Art Fest",
+        "category": "Art",
+        "tags": [
+            "Art",
+            "Festival",
+            "Event"
+        ],
+        "date": "14-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 99,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Art Hall",
+        "staff_coordinator": "Prof. Art - Event Head",
+        "student_coordinator": "Student Art - 3rd Year",
+        "contact_info": "art@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Art Corp",
+            "Art Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/artfest",
+            "facebook": "https://facebook.com/artfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Art featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/1047540/pexels-photo-1047540.jpeg"
+    },
+    {
+        "id": 6,
+        "event_name": "Art Championship",
+        "category": "Art",
+        "tags": [
+            "Art",
+            "Competition",
+            "Championship"
+        ],
+        "date": "19-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 199,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Art Arena",
+        "staff_coordinator": "Dr. Art - Event Chair",
+        "student_coordinator": "Lead Art - 4th Year",
+        "contact_info": "art@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Art League",
+            "Art World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/artchampionship",
+            "facebook": "https://facebook.com/artchampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Art competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/1153895/pexels-photo-1153895.jpeg"
+    },
+    {
+        "id": 7,
+        "event_name": "Sports Fest",
+        "category": "Sports",
+        "tags": [
+            "Sports",
+            "Festival",
+            "Event"
+        ],
+        "date": "15-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 299,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Sports Hall",
+        "staff_coordinator": "Prof. Sports - Event Head",
+        "student_coordinator": "Student Sports - 3rd Year",
+        "contact_info": "sports@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Sports Corp",
+            "Sports Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/sportsfest",
+            "facebook": "https://facebook.com/sportsfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Sports featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg"
+    },
+    {
+        "id": 8,
+        "event_name": "Sports Championship",
+        "category": "Sports",
+        "tags": [
+            "Sports",
+            "Competition",
+            "Championship"
+        ],
+        "date": "20-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 0,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Sports Arena",
+        "staff_coordinator": "Dr. Sports - Event Chair",
+        "student_coordinator": "Lead Sports - 4th Year",
+        "contact_info": "sports@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Sports League",
+            "Sports World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/sportschampionship",
+            "facebook": "https://facebook.com/sportschampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Sports competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/269948/pexels-photo-269948.jpeg"
+    },
+    {
+        "id": 9,
+        "event_name": "Theatre Fest",
+        "category": "Theatre",
+        "tags": [
+            "Theatre",
+            "Festival",
+            "Event"
+        ],
+        "date": "16-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 99,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Theatre Hall",
+        "staff_coordinator": "Prof. Theatre - Event Head",
+        "student_coordinator": "Student Theatre - 3rd Year",
+        "contact_info": "theatre@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Theatre Corp",
+            "Theatre Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/theatrefest",
+            "facebook": "https://facebook.com/theatrefest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Theatre featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/713149/pexels-photo-713149.jpeg"
+    },
+    {
+        "id": 10,
+        "event_name": "Theatre Championship",
+        "category": "Theatre",
+        "tags": [
+            "Theatre",
+            "Competition",
+            "Championship"
+        ],
+        "date": "21-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 199,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Theatre Arena",
+        "staff_coordinator": "Dr. Theatre - Event Chair",
+        "student_coordinator": "Lead Theatre - 4th Year",
+        "contact_info": "theatre@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Theatre League",
+            "Theatre World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/theatrechampionship",
+            "facebook": "https://facebook.com/theatrechampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Theatre competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/8942889/pexels-photo-8942889.jpeg"
+    },
+    {
+        "id": 11,
+        "event_name": "Dance Fest",
+        "category": "Dance",
+        "tags": [
+            "Dance",
+            "Festival",
+            "Event"
+        ],
+        "date": "17-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 299,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Dance Hall",
+        "staff_coordinator": "Prof. Dance - Event Head",
+        "student_coordinator": "Student Dance - 3rd Year",
+        "contact_info": "dance@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Dance Corp",
+            "Dance Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/dancefest",
+            "facebook": "https://facebook.com/dancefest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Dance featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/209948/pexels-photo-209948.jpeg"
+    },
+    {
+        "id": 12,
+        "event_name": "Dance Championship",
+        "category": "Dance",
+        "tags": [
+            "Dance",
+            "Competition",
+            "Championship"
+        ],
+        "date": "22-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 99,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Dance Arena",
+        "staff_coordinator": "Dr. Dance - Event Chair",
+        "student_coordinator": "Lead Dance - 4th Year",
+        "contact_info": "dance@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Dance League",
+            "Dance World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/dancechampionship",
+            "facebook": "https://facebook.com/dancechampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Dance competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/3753820/pexels-photo-3753820.jpeg"
+    },
+    {
+        "id": 13,
+        "event_name": "Business Fest",
+        "category": "Business",
+        "tags": [
+            "Business",
+            "Festival",
+            "Event"
+        ],
+        "date": "18-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 0,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Business Hall",
+        "staff_coordinator": "Prof. Business - Event Head",
+        "student_coordinator": "Student Business - 3rd Year",
+        "contact_info": "business@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Business Corp",
+            "Business Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/businessfest",
+            "facebook": "https://facebook.com/businessfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Business featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/3184416/pexels-photo-3184416.jpeg"
+    },
+    {
+        "id": 14,
+        "event_name": "Business Championship",
+        "category": "Business",
+        "tags": [
+            "Business",
+            "Competition",
+            "Championship"
+        ],
+        "date": "23-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 199,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Business Arena",
+        "staff_coordinator": "Dr. Business - Event Chair",
+        "student_coordinator": "Lead Business - 4th Year",
+        "contact_info": "business@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Business League",
+            "Business World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/businesschampionship",
+            "facebook": "https://facebook.com/businesschampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Business competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg"
+    },
+    {
+        "id": 15,
+        "event_name": "Literature Fest",
+        "category": "Literature",
+        "tags": [
+            "Literature",
+            "Festival",
+            "Event"
+        ],
+        "date": "19-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 99,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Literature Hall",
+        "staff_coordinator": "Prof. Literature - Event Head",
+        "student_coordinator": "Student Literature - 3rd Year",
+        "contact_info": "literature@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Literature Corp",
+            "Literature Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/literaturefest",
+            "facebook": "https://facebook.com/literaturefest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Literature featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg"
+    },
+    {
+        "id": 16,
+        "event_name": "Literature Championship",
+        "category": "Literature",
+        "tags": [
+            "Literature",
+            "Competition",
+            "Championship"
+        ],
+        "date": "24-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 0,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Literature Arena",
+        "staff_coordinator": "Dr. Literature - Event Chair",
+        "student_coordinator": "Lead Literature - 4th Year",
+        "contact_info": "literature@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Literature League",
+            "Literature World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/literaturechampionship",
+            "facebook": "https://facebook.com/literaturechampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Literature competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/29448295/pexels-photo-29448295.jpeg"
+    },
+    {
+        "id": 17,
+        "event_name": "Science Fest",
+        "category": "Science",
+        "tags": [
+            "Science",
+            "Festival",
+            "Event"
+        ],
+        "date": "20-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 199,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Science Hall",
+        "staff_coordinator": "Prof. Science - Event Head",
+        "student_coordinator": "Student Science - 3rd Year",
+        "contact_info": "science@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Science Corp",
+            "Science Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/sciencefest",
+            "facebook": "https://facebook.com/sciencefest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Science featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg"
+    },
+    {
+        "id": 18,
+        "event_name": "Science Championship",
+        "category": "Science",
+        "tags": [
+            "Science",
+            "Competition",
+            "Championship"
+        ],
+        "date": "25-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 299,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Science Arena",
+        "staff_coordinator": "Dr. Science - Event Chair",
+        "student_coordinator": "Lead Science - 4th Year",
+        "contact_info": "science@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Science League",
+            "Science World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/sciencechampionship",
+            "facebook": "https://facebook.com/sciencechampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Science competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg"
+    },
+    {
+        "id": 19,
+        "event_name": "Fashion Fest",
+        "category": "Fashion",
+        "tags": [
+            "Fashion",
+            "Festival",
+            "Event"
+        ],
+        "date": "21-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 0,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Fashion Hall",
+        "staff_coordinator": "Prof. Fashion - Event Head",
+        "student_coordinator": "Student Fashion - 3rd Year",
+        "contact_info": "fashion@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Fashion Corp",
+            "Fashion Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/fashionfest",
+            "facebook": "https://facebook.com/fashionfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Fashion featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/932401/pexels-photo-932401.jpeg"
+    },
+    {
+        "id": 20,
+        "event_name": "Fashion Championship",
+        "category": "Fashion",
+        "tags": [
+            "Fashion",
+            "Competition",
+            "Championship"
+        ],
+        "date": "26-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 99,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Fashion Arena",
+        "staff_coordinator": "Dr. Fashion - Event Chair",
+        "student_coordinator": "Lead Fashion - 4th Year",
+        "contact_info": "fashion@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Fashion League",
+            "Fashion World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/fashionchampionship",
+            "facebook": "https://facebook.com/fashionchampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Fashion competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg"
+    },
+    {
+        "id": 21,
+        "event_name": "Debate Fest",
+        "category": "Debate",
+        "tags": [
+            "Debate",
+            "Festival",
+            "Event"
+        ],
+        "date": "22-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 199,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Debate Hall",
+        "staff_coordinator": "Prof. Debate - Event Head",
+        "student_coordinator": "Student Debate - 3rd Year",
+        "contact_info": "debate@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Debate Corp",
+            "Debate Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/debatefest",
+            "facebook": "https://facebook.com/debatefest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Debate featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/8015694/pexels-photo-8015694.jpeg"
+    },
+    {
+        "id": 22,
+        "event_name": "Debate Championship",
+        "category": "Debate",
+        "tags": [
+            "Debate",
+            "Competition",
+            "Championship"
+        ],
+        "date": "27-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 299,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Debate Arena",
+        "staff_coordinator": "Dr. Debate - Event Chair",
+        "student_coordinator": "Lead Debate - 4th Year",
+        "contact_info": "debate@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Debate League",
+            "Debate World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/debatechampionship",
+            "facebook": "https://facebook.com/debatechampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Debate competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/18512922/pexels-photo-18512922.jpeg"
+    },
+    {
+        "id": 23,
+        "event_name": "Photography Fest",
+        "category": "Photography",
+        "tags": [
+            "Photography",
+            "Festival",
+            "Event"
+        ],
+        "date": "23-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 0,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Photography Hall",
+        "staff_coordinator": "Prof. Photography - Event Head",
+        "student_coordinator": "Student Photography - 3rd Year",
+        "contact_info": "photography@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Photography Corp",
+            "Photography Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/photographyfest",
+            "facebook": "https://facebook.com/photographyfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Photography featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg"
+    },
+    {
+        "id": 24,
+        "event_name": "Photography Championship",
+        "category": "Photography",
+        "tags": [
+            "Photography",
+            "Competition",
+            "Championship"
+        ],
+        "date": "28-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 99,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Photography Arena",
+        "staff_coordinator": "Dr. Photography - Event Chair",
+        "student_coordinator": "Lead Photography - 4th Year",
+        "contact_info": "photography@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Photography League",
+            "Photography World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/photographychampionship",
+            "facebook": "https://facebook.com/photographychampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Photography competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/986733/pexels-photo-986733.jpeg"
+    },
+    {
+        "id": 25,
+        "event_name": "Food Fest",
+        "category": "Food",
+        "tags": [
+            "Food",
+            "Festival",
+            "Event"
+        ],
+        "date": "24-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 199,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Food Hall",
+        "staff_coordinator": "Prof. Food - Event Head",
+        "student_coordinator": "Student Food - 3rd Year",
+        "contact_info": "food@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Food Corp",
+            "Food Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/foodfest",
+            "facebook": "https://facebook.com/foodfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Food featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/1435895/pexels-photo-1435895.jpeg"
+    },
+    {
+        "id": 26,
+        "event_name": "Food Championship",
+        "category": "Food",
+        "tags": [
+            "Food",
+            "Competition",
+            "Championship"
+        ],
+        "date": "29-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 299,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Food Arena",
+        "staff_coordinator": "Dr. Food - Event Chair",
+        "student_coordinator": "Lead Food - 4th Year",
+        "contact_info": "food@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Food League",
+            "Food World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/foodchampionship",
+            "facebook": "https://facebook.com/foodchampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Food competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/1482803/pexels-photo-1482803.jpeg"
+    },
+    {
+        "id": 27,
+        "event_name": "Innovation Fest",
+        "category": "Innovation",
+        "tags": [
+            "Innovation",
+            "Festival",
+            "Event"
+        ],
+        "date": "25-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 0,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Innovation Hall",
+        "staff_coordinator": "Prof. Innovation - Event Head",
+        "student_coordinator": "Student Innovation - 3rd Year",
+        "contact_info": "innovation@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Innovation Corp",
+            "Innovation Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/innovationfest",
+            "facebook": "https://facebook.com/innovationfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Innovation featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/1314410/pexels-photo-1314410.jpeg"
+    },
+    {
+        "id": 28,
+        "event_name": "Innovation Championship",
+        "category": "Innovation",
+        "tags": [
+            "Innovation",
+            "Competition",
+            "Championship"
+        ],
+        "date": "30-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 99,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Innovation Arena",
+        "staff_coordinator": "Dr. Innovation - Event Chair",
+        "student_coordinator": "Lead Innovation - 4th Year",
+        "contact_info": "innovation@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Innovation League",
+            "Innovation World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/innovationchampionship",
+            "facebook": "https://facebook.com/innovationchampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Innovation competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/212286/pexels-photo-212286.jpeg"
+    },
+    {
+        "id": 29,
+        "event_name": "Environment Fest",
+        "category": "Environment",
+        "tags": [
+            "Environment",
+            "Festival",
+            "Event"
+        ],
+        "date": "26-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 199,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Environment Hall",
+        "staff_coordinator": "Prof. Environment - Event Head",
+        "student_coordinator": "Student Environment - 3rd Year",
+        "contact_info": "environment@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Environment Corp",
+            "Environment Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/environmentfest",
+            "facebook": "https://facebook.com/environmentfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Environment featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/1002703/pexels-photo-1002703.jpeg"
+    },
+    {
+        "id": 30,
+        "event_name": "Environment Championship",
+        "category": "Environment",
+        "tags": [
+            "Environment",
+            "Competition",
+            "Championship"
+        ],
+        "date": "31-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 299,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Environment Arena",
+        "staff_coordinator": "Dr. Environment - Event Chair",
+        "student_coordinator": "Lead Environment - 4th Year",
+        "contact_info": "environment@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Environment League",
+            "Environment World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/environmentchampionship",
+            "facebook": "https://facebook.com/environmentchampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Environment competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg"
+    },
+    {
+        "id": 31,
+        "event_name": "Health Fest",
+        "category": "Health",
+        "tags": [
+            "Health",
+            "Festival",
+            "Event"
+        ],
+        "date": "27-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 99,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Health Hall",
+        "staff_coordinator": "Prof. Health - Event Head",
+        "student_coordinator": "Student Health - 3rd Year",
+        "contact_info": "health@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Health Corp",
+            "Health Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/healthfest",
+            "facebook": "https://facebook.com/healthfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Health featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/806427/pexels-photo-806427.jpeg"
+    },
+    {
+        "id": 32,
+        "event_name": "Health Championship",
+        "category": "Health",
+        "tags": [
+            "Health",
+            "Competition",
+            "Championship"
+        ],
+        "date": "32-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 0,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Health Arena",
+        "staff_coordinator": "Dr. Health - Event Chair",
+        "student_coordinator": "Lead Health - 4th Year",
+        "contact_info": "health@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Health League",
+            "Health World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/healthchampionship",
+            "facebook": "https://facebook.com/healthchampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Health competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/105028/pexels-photo-105028.jpeg"
+    },
+    {
+        "id": 33,
+        "event_name": "Coding Fest",
+        "category": "Coding",
+        "tags": [
+            "Coding",
+            "Festival",
+            "Event"
+        ],
+        "date": "28-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 199,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Coding Hall",
+        "staff_coordinator": "Prof. Coding - Event Head",
+        "student_coordinator": "Student Coding - 3rd Year",
+        "contact_info": "coding@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Coding Corp",
+            "Coding Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/codingfest",
+            "facebook": "https://facebook.com/codingfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Coding featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg"
+    },
+    {
+        "id": 34,
+        "event_name": "Coding Championship",
+        "category": "Coding",
+        "tags": [
+            "Coding",
+            "Competition",
+            "Championship"
+        ],
+        "date": "33-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 299,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Coding Arena",
+        "staff_coordinator": "Dr. Coding - Event Chair",
+        "student_coordinator": "Lead Coding - 4th Year",
+        "contact_info": "coding@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Coding League",
+            "Coding World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/codingchampionship",
+            "facebook": "https://facebook.com/codingchampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Coding competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg"
+    },
+    {
+        "id": 35,
+        "event_name": "Film Fest",
+        "category": "Film",
+        "tags": [
+            "Film",
+            "Festival",
+            "Event"
+        ],
+        "date": "29-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 0,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Film Hall",
+        "staff_coordinator": "Prof. Film - Event Head",
+        "student_coordinator": "Student Film - 3rd Year",
+        "contact_info": "film@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Film Corp",
+            "Film Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/filmfest",
+            "facebook": "https://facebook.com/filmfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Film featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/918281/pexels-photo-918281.jpeg"
+    },
+    {
+        "id": 36,
+        "event_name": "Film Championship",
+        "category": "Film",
+        "tags": [
+            "Film",
+            "Competition",
+            "Championship"
+        ],
+        "date": "34-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 99,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Film Arena",
+        "staff_coordinator": "Dr. Film - Event Chair",
+        "student_coordinator": "Lead Film - 4th Year",
+        "contact_info": "film@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Film League",
+            "Film World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/filmchampionship",
+            "facebook": "https://facebook.com/filmchampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Film competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/66134/pexels-photo-66134.jpeg"
+    },
+    {
+        "id": 37,
+        "event_name": "Games Fest",
+        "category": "Games",
+        "tags": [
+            "Games",
+            "Festival",
+            "Event"
+        ],
+        "date": "30-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 199,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Games Hall",
+        "staff_coordinator": "Prof. Games - Event Head",
+        "student_coordinator": "Student Games - 3rd Year",
+        "contact_info": "games@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Games Corp",
+            "Games Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/gamesfest",
+            "facebook": "https://facebook.com/gamesfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Games featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/682933/pexels-photo-682933.jpeg"
+    },
+    {
+        "id": 38,
+        "event_name": "Games Championship",
+        "category": "Games",
+        "tags": [
+            "Games",
+            "Competition",
+            "Championship"
+        ],
+        "date": "35-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 299,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Games Arena",
+        "staff_coordinator": "Dr. Games - Event Chair",
+        "student_coordinator": "Lead Games - 4th Year",
+        "contact_info": "games@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Games League",
+            "Games World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/gameschampionship",
+            "facebook": "https://facebook.com/gameschampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Games competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/1579240/pexels-photo-1579240.jpeg"
+    },
+    {
+        "id": 39,
+        "event_name": "Cultural Fest",
+        "category": "Cultural",
+        "tags": [
+            "Cultural",
+            "Festival",
+            "Event"
+        ],
+        "date": "31-07-2025",
+        "time": "5:00 PM",
+        "entry_price": 0,
+        "duration": "3 hours",
+        "max_participants": 200,
+        "mode": "Offline",
+        "location": "Cultural Hall",
+        "staff_coordinator": "Prof. Cultural - Event Head",
+        "student_coordinator": "Student Cultural - 3rd Year",
+        "contact_info": "cultural@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Cultural Corp",
+            "Cultural Co."
+        ],
+        "prizes": {
+            "first_place": "\u20b920,000 + Trophy",
+            "second_place": "\u20b910,000 + Certificate",
+            "third_place": "\u20b95,000 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/culturalfest",
+            "facebook": "https://facebook.com/culturalfest"
+        },
+        "rules": [
+            "Follow standard competition guidelines.",
+            "Participants must adhere to event rules.",
+            "Late entries will not be entertained."
+        ],
+        "description": "A grand celebration of Cultural featuring competitions, workshops, and expert talks.",
+        "bg_image": "https://images.pexels.com/photos/1313814/pexels-photo-1313814.jpeg"
+    },
+    {
+        "id": 40,
+        "event_name": "Cultural Championship",
+        "category": "Cultural",
+        "tags": [
+            "Cultural",
+            "Competition",
+            "Championship"
+        ],
+        "date": "36-07-2025",
+        "time": "6:00 PM",
+        "entry_price": 299,
+        "duration": "4 hours",
+        "max_participants": 150,
+        "mode": "Offline",
+        "location": "Cultural Arena",
+        "staff_coordinator": "Dr. Cultural - Event Chair",
+        "student_coordinator": "Lead Cultural - 4th Year",
+        "contact_info": "cultural@college.com",
+        "eligibility": "Open to all students",
+        "sponsors": [
+            "Cultural League",
+            "Cultural World"
+        ],
+        "prizes": {
+            "first_place": "\u20b925,000 + Trophy",
+            "second_place": "\u20b912,500 + Certificate",
+            "third_place": "\u20b97,500 + Certificate"
+        },
+        "social_links": {
+            "instagram": "https://instagram.com/culturalchampionship",
+            "facebook": "https://facebook.com/culturalchampionship"
+        },
+        "rules": [
+            "Fair play and ethics must be followed.",
+            "No external assistance allowed.",
+            "Timings must be strictly followed."
+        ],
+        "description": "An exciting Cultural competition to showcase skills and talent with exciting prizes.",
+        "bg_image": "https://images.pexels.com/photos/318238/pexels-photo-318238.jpeg"
+    }
+  ]
