@@ -15,6 +15,7 @@ const path = require("path");
 const app = express(); 
 const port = process.env.PORT || 5000;
 const JWT_SECRET = process.env.JWT_SECRET;
+const pythonApiUrl = "https://ml-college-events-python.onrender.com/recommend"; // Replace with your Render ML API URL
 
 app.use(cors({ origin: "*" }));
 app.use(bodyParser.json());
@@ -355,22 +356,17 @@ app.get("/api/recommendations", async (req, res) => {
 });
 
 // Machine Learning recomendations based on search history table
-app.get("/machinelearning/:userId", (req, res) => {
+app.get("/machinelearning/:userId", async (req, res) => {
   const userId = req.params.userId;
 
-  exec(`python3 recommend.py ${userId}`, (error, stdout, stderr) => {
-      if (error) {
-          console.error("Error executing Python script:", stderr);
-          return res.status(500).json({ error: "Error generating recommendations" });
-      }
-      try {
-          const recommendations = JSON.parse(stdout);
-          res.json(recommendations);
-      } catch (err) {
-          console.error("Error parsing JSON:", err);
-          res.status(500).json({ error: "Invalid recommendation response" });
-      }
-  });
+  try {
+      const response = await fetch(`${pythonApiUrl}?user_id=${userId}`);
+      const data = await response.json();
+      res.json(data);
+  } catch (error) {
+      console.error("ML API Error:", error);
+      res.status(500).json({ error: "Error generating recommendations" });
+  }
 });
 
 
