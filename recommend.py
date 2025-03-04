@@ -7,26 +7,37 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # Load events data from JSON
 def get_events():
-    with open("events.json", "r", encoding="utf-8") as file:
-        events = json.load(file)
-    return events
+    try:
+        with open("events.json", "r", encoding="utf-8") as file:
+            events = json.load(file)
+        return events if events else []
+    except Exception as e:
+        print(json.dumps({"error": f"Error loading events.json: {str(e)}"}))
+        return []
 
 # Fetch user search history from SQLite database
 def get_user_history(user_id):
-    conn = sqlite3.connect("events.db")
-    cursor = conn.cursor()
-    cursor.execute("SELECT search_query FROM search_history WHERE user_id = ?", (user_id,))
-    rows = cursor.fetchall()
-    conn.close()
-    return [row[0].lower() for row in rows] if rows else []
+    try:
+        conn = sqlite3.connect("events.db")
+        cursor = conn.cursor()
+        cursor.execute("SELECT search_query FROM search_history WHERE user_id = ?", (user_id,))
+        rows = cursor.fetchall()
+        conn.close()
+        return [row[0].lower() for row in rows] if rows else []
+    except Exception as e:
+        print(json.dumps({"error": f"Database error: {str(e)}"}))
+        return []
 
 # Compute TF-IDF vectorization and recommend events based on cosine similarity
 def recommend_events(user_id, top_n=4):
     user_history = get_user_history(user_id)
     all_events = get_events()
 
-    if not user_history or not all_events:
-        return []
+    if not all_events:
+        return {"error": "No events available"}
+
+    if not user_history:
+        return {"message": "No search history found for this user", "recommendations": []}
 
     event_names = [event["event_name"].lower() for event in all_events]
     
@@ -47,11 +58,14 @@ def recommend_events(user_id, top_n=4):
     top_indices = similarities.argsort()[-top_n:][::-1]  # Sort in descending order
     recommended_events = [all_events[i] for i in top_indices]
 
-    return recommended_events
+    return {"recommendations": recommended_events}
 
 # Run script from terminal
 if __name__ == "__main__":
     import sys
-    user_id = int(sys.argv[1])
-    recommendations = recommend_events(user_id)
-    print(json.dumps(recommendations, indent=2))
+    try:
+        user_id = int(sys.argv[1])
+        recommendations = recommend_events(user_id)
+        print(json.dumps(recommendations, indent=2))
+    except Exception as e:
+        print(json.dumps({"error": f"Unexpected error: {str(e)}"}))
