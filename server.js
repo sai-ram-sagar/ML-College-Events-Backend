@@ -358,18 +358,17 @@ app.get("/api/recommendations", async (req, res) => {
 app.get("/machinelearning/:userId", (req, res) => {
   const userId = req.params.userId;
 
-  exec(`python recommend.py ${userId}`, (error, stdout, stderr) => {
+  exec(`python3 recommend.py ${userId}`, (error, stdout, stderr) => {
       if (error) {
-          console.error(`Python error: ${stderr}`);
+          console.error("Error executing Python script:", stderr);
           return res.status(500).json({ error: "Error generating recommendations" });
       }
-
       try {
           const recommendations = JSON.parse(stdout);
           res.json(recommendations);
-      } catch (parseError) {
-          console.error("Error parsing Python output:", parseError);
-          res.status(500).json({ error: "Error processing recommendations" });
+      } catch (err) {
+          console.error("Error parsing JSON:", err);
+          res.status(500).json({ error: "Invalid recommendation response" });
       }
   });
 });
